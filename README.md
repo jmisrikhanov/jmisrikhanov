@@ -11,7 +11,7 @@ I prefer React for web front-end & Django technologies for back-end development.
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 
-You may find some experimental and forked projects on my repos, feel free to contribute or using them.
+You may find some experimental projects on my repos, feel free to contribute or use them.
 Knowledge is power and it should spread across the world! 💪
 
 <a href="https://www.linkedin.com/in/javid-misrikhanov-57a54692/" target="_blank">
