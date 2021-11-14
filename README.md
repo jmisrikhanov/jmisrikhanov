@@ -24,6 +24,9 @@ Knowledge is power and it should spread across the world! 💪
     <img src="https://img.shields.io/badge/%20-medium-black" alt="#">
 </a> -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmisrikhanov" alt="jmisrikhanov" /> </p>
+
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
