@@ -38,8 +38,8 @@ Knowledge is power and it should spread across the world! 💪
 
 ## &#x1f4c8; GitHub Stats
 
- [![Javid's github activity graph](https://activity-graph.herokuapp.com/graph?username=jmisrikhanov&theme=react-dark)]
-
+<!--  [![Javid's github activity graph](https://activity-graph.herokuapp.com/graph?username=jmisrikhanov&theme=react-dark)]
+ -->
 
 <br>
 
